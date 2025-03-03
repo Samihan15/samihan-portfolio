@@ -95,7 +95,8 @@ a:hover{
 #profile-pic{
     height: 75%;
     object-fit: contain;
-    border-radius: 50%;
+    transform: scaleX(-1);
+    /* border-radius: 50%; */
 }
 
 #profile{
